@@ -12,6 +12,7 @@
         <TextView
             android:text="张三" />
     </TableRow>
+
     <TableRow>
         <TextView
             android:text="年龄" />
